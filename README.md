@@ -1,2 +1,4 @@
 # Retail-company-customer-behavior-analysis
-This project analyzes retail customer behavior to identify factors influencing purchase decisions and repeat buying. It examines demographics, product categories, discounts, reviews, seasonal trends, and payment preferences to generate insights that improve sales performance, customer satisfaction, and long-term customer loyalty.
+Transformed raw retail transaction data into actionable insights by analyzing customer behavior, product performance, and pricing strategies. Identified revenue-driving segments and behavioral patterns to support data-driven growth and customer retention.
+
+This project analyzes 3,900+ customer transactions to understand purchasing patterns, customer segmentation, and the effectiveness of discounts and subscriptions using Python, PostgreSQL, and Power BI.
